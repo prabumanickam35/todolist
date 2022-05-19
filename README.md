@@ -19,6 +19,6 @@ The application is a stanadlone(but requires Java 11 runtime). Following command
 ./mvn spring-boot:run
 ```
 
-To present the GUI, Swagger UI is implemented to it, following URL will take help understanding the docs and gives controls to interact with the service directly once after starting the application.
+To present the GUI, Swagger UI is implemented along with it, following URL will take help understanding the docs and gives controls to interact with the service directly once after starting the application.
 
 http://localhost:8080/swagger-ui/index.html
